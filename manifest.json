@@ -1,0 +1,18 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "LumaEmu",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Luma",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "docs/assets/favicon.ico",
+      "type": "image/vnd.microsoft.icon",
+      "sizes": "16x16 32x32 48x48 64x64"
+    }
+  ]
+}
