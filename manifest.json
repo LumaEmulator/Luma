@@ -10,8 +10,8 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "docs/assets/favicon.ico",
-      "type": "image/vnd.microsoft.icon",
+      "src": "docs/Logo.png",
+      "type": "image/png",
       "sizes": "16x16 32x32 48x48 64x64"
     }
   ]
