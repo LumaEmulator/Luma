@@ -6,7 +6,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Luma",
-  "start_url": "/Luma/Play.html",
+  "start_url": "/Luma",
   "theme_color": "#000000",
   "icons": [
     {
